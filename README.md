@@ -45,6 +45,10 @@ int main() {
 
 Full runnable examples can be found in [`examples/`](examples/).
 
+## License
+
+beman.indices_view is licensed under the Apache License v2.0 with LLVM Exceptions.
+
 ## Dependencies
 
 ### Build Environment

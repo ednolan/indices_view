@@ -80,7 +80,6 @@ This project officially supports:
 
 beman.exemplar is licensed under the Apache License v2.0 with LLVM Exceptions.
 
-
 ## Development
 
 ### Develop using GitHub Codespace

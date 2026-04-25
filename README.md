@@ -76,10 +76,6 @@ This project officially supports:
 > (e.g. HEAD/nightly).
 > These development environments are verified using our CI configuration.
 
-## License
-
-beman.exemplar is licensed under the Apache License v2.0 with LLVM Exceptions.
-
 ## Development
 
 ### Develop using GitHub Codespace

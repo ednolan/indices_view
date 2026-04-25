@@ -41,4 +41,3 @@ repos:
     rev: v0.3.1
     hooks:
     - id: beman-tidy
-      args: [".", "--verbose", "--require-all"]

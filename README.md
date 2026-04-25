@@ -9,7 +9,7 @@ SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
 ![Continuous Integration Tests](https://github.com/bemanproject/indices_view/actions/workflows/ci_tests.yml/badge.svg)
 ![Lint Check (pre-commit)](https://github.com/bemanproject/indices_view/actions/workflows/pre-commit.yml/badge.svg)
 ![Target Standard](https://github.com/bemanproject/beman/blob/main/images/badges/cpp26.svg)
-
+![Standard Target](https://github.com/bemanproject/beman/blob/main/images/badges/cpp29.svg)
 **Implements**: `std::views::indices` proposed in [Add std::views::indices(n) (P3060R2)](https://wg21.link/P3060R2).
 
 **Status**: [Production ready. Stable API.](https://github.com/bemanproject/beman/blob/main/docs/BEMAN_LIBRARY_MATURITY_MODEL.md#production-ready-stable-api)

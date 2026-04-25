@@ -76,7 +76,6 @@ This project officially supports:
 > (e.g. HEAD/nightly).
 > These development environments are verified using our CI configuration.
 
-
 ## Development
 
 ### Develop using GitHub Codespace

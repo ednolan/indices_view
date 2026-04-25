@@ -8,8 +8,7 @@ SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
 ![Library Status](https://raw.githubusercontent.com/bemanproject/beman/refs/heads/main/images/badges/beman_badge-beman_library_production_ready_stable_api.svg)
 ![Continuous Integration Tests](https://github.com/bemanproject/indices_view/actions/workflows/ci_tests.yml/badge.svg)
 ![Lint Check (pre-commit)](https://github.com/bemanproject/indices_view/actions/workflows/pre-commit.yml/badge.svg)
-![Target Standard](https://github.com/bemanproject/beman/blob/main/images/badges/cpp26.svg)
-
+![Standard Target](https://github.com/bemanproject/beman/blob/main/images/badges/cpp26.svg)
 **Implements**: `std::views::indices` proposed in [Add std::views::indices(n) (P3060R2)](https://wg21.link/P3060R2).
 
 **Status**: [Production ready. Stable API.](https://github.com/bemanproject/beman/blob/main/docs/BEMAN_LIBRARY_MATURITY_MODEL.md#production-ready-stable-api)
@@ -45,6 +44,10 @@ int main() {
 ```
 
 Full runnable examples can be found in [`examples/`](examples/).
+
+## License
+
+beman.indices_view is licensed under the Apache License v2.0 with LLVM Exceptions.
 
 ## Dependencies
 

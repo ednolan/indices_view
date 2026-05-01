@@ -1,0 +1,17 @@
+{
+  "name": "beman-indices-view",
+  "version-semver": "@VERSION@",
+  "description": "An implementation of std::views::indices (P3060R2).",
+  "homepage": "https://github.com/bemanproject/indices_view",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
